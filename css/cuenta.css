@@ -1,0 +1,35 @@
+.sectionContenido {
+    float: left;
+    margin-top: 30px;
+    width: 80%;
+    margin-left: 4%;
+    margin-bottom: 10px;
+}
+
+body{
+    background-image: url(https://cdn2.f-cdn.com/contestentries/1108779/25763747/5995bb5fce480_thumb900.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: black;
+}
+
+ul > li > a, #titulo {
+    color: black !important;
+}
+
+#txtContacto {
+    width: 200px;
+}
+
+#txtMensaje {
+    width: 95%;
+    height: 200px;
+}
+
+#botonContacto {
+    background-color: white;
+    float: right;
+    margin-right: 5%;
+    margin-top: 15px;
+    width: 10%;
+}
